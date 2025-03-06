@@ -1,0 +1,51 @@
+product_id,product_name,category_id,price,stock_quantity
+1,Smartphone,4,699,23
+2,Laptop,5,1200,18
+3,Tablet,3,500,99
+4,Smartwatch,5,250,62
+5,Gaming Console,5,400,11
+6,Bluetooth Speaker,2,150,93
+7,Headphones,3,100,69
+8,Smart TV,3,800,80
+9,Wireless Mouse,3,30,53
+10,Keyboard,5,50,17
+11,External Hard Drive,4,100,56
+12,Monitor,3,300,44
+13,Router,6,80,87
+14,Webcam,5,60,90
+15,Microphone,2,70,45
+16,Projector,4,500,59
+17,Printer,6,200,13
+18,Scanner,6,150,11
+19,VR Headset,2,350,15
+20,Fitness Tracker,4,120,63
+21,eReader,5,130,13
+22,Portable Charger,1,40,63
+23,Smart Home Hub,4,100,72
+24,Streaming Device,2,60,27
+25,Digital Camera,6,500,99
+26,Action Camera,5,400,53
+27,Drone,4,1000,43
+28,Desktop Computer,1,1500,83
+29,Graphics Tablet,1,250,71
+30,Portable SSD,3,200,23
+31,USB Flash Drive,3,20,57
+32,Memory Card,2,25,24
+33,Smart Light Bulb,4,20,81
+34,Smart Thermostat,4,150,87
+35,Home Security Camera,6,200,96
+36,Video Doorbell,6,180,71
+37,Smart Plug,6,25,49
+38,Bluetooth Headset,3,80,94
+39,Noise Cancelling Headphones,4,200,89
+40,Electric Scooter,4,400,91
+41,Electric Skateboard,1,500,62
+42,Portable Bluetooth Printer,3,250,33
+43,Smart Air Purifier,5,300,35
+44,Robot Vacuum,3,350,98
+45,Electric Kettle,5,60,69
+46,Smart Coffee Maker,1,150,50
+47,Smart Oven,2,1000,38
+48,Smart Refrigerator,4,2000,24
+49,Electric Toothbrush,1,100,54
+50,Smart Scale,4,80,74
